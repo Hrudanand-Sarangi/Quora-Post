@@ -1,0 +1,33 @@
+h1{
+    color: maroon;
+}
+.username{
+font-style: italic;
+}
+
+
+.post{
+    background-color: bisque;
+}
+
+#img{
+    height: 500px;
+    width: 500px;
+}
+body{
+    background-color: rgb(208, 222, 83);
+}
+button{
+    background-color: rgb(125, 223, 185);
+    size: 30px;
+
+}
+button:hover{
+    border-radius: 10px;
+    background-color: rgb(124, 124, 218);
+    color: white;
+}
+.no-underline{
+    text-decoration: none;
+    color: white;
+}
